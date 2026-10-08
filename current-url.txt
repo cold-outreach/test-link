@@ -1,1 +1,1 @@
-https://flood-laundry-sources-oklahoma.trycloudflare.com
+https://api.trycloudflare.com
