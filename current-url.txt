@@ -1,1 +1,1 @@
-https://metallic-combat-stayed-managing.trycloudflare.com
+https://api.trycloudflare.com
