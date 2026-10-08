@@ -1,1 +1,1 @@
-https://tries-videos-disks-ana.trycloudflare.com
+https://api.trycloudflare.com
