@@ -1,1 +1,1 @@
-https://screens-appear-loans-anyway.trycloudflare.com
+https://api.trycloudflare.com
