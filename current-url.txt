@@ -1,1 +1,1 @@
-https://webcams-catalog-bible-aids.trycloudflare.com
+https://api.trycloudflare.com
