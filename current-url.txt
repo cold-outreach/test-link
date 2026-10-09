@@ -1,1 +1,1 @@
-https://mass-upc-barcelona-punch.trycloudflare.com
+https://api.trycloudflare.com
