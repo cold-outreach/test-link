@@ -1,1 +1,1 @@
-https://mozilla-wav-visibility-thereby.trycloudflare.com
+https://api.trycloudflare.com
