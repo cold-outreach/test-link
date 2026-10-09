@@ -1,1 +1,1 @@
-https://advert-crimes-mom-upper.trycloudflare.com
+https://api.trycloudflare.com
