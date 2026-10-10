@@ -1,1 +1,1 @@
-https://yeast-maritime-assess-construct.trycloudflare.com
+https://api.trycloudflare.com
