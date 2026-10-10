@@ -1,1 +1,1 @@
-https://clicks-strings-margaret-devices.trycloudflare.com
+https://api.trycloudflare.com
