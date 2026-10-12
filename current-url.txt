@@ -1,1 +1,1 @@
-https://democrat-suite-bill-provided.trycloudflare.com
+https://api.trycloudflare.com
