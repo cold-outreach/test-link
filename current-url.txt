@@ -1,1 +1,1 @@
-https://lead-fashion-barn-islands.trycloudflare.com
+https://api.trycloudflare.com
