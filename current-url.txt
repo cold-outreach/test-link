@@ -1,1 +1,1 @@
-https://grand-larger-gate-ment.trycloudflare.com
+https://api.trycloudflare.com
